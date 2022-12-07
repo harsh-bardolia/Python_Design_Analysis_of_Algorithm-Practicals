@@ -3,7 +3,7 @@
 
 This repository contains the solutions to the practicals of the course Analysis and Design of Algorithms (3150703) at SCET, Surat.
 
-![Rick]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3_KHtUd_e0vn3ZgPAUN6yJ&ust=1670467939166000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNinr5LA5vsCFQAAAAAdAAAAABAb](https://media.giphy.com/media/XFwz7MTThaOVQ9RhB5/giphy.gif))
+![When My Code is Working !](https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif)
 
 ## Practical List
 
